@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhirajchawla889
-- 👀 I’m interested in ...
+- 👀 I’m interested in Anything
 - 🌱 I’m currently learning Python, Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me - By email. My email address is dhirajchawla88@gmail.com
 
 <!---
